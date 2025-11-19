@@ -7,7 +7,7 @@
 <p align="center">
   Scroll any screen without touching it —<br>
   using real-time hand-gesture recognition powered by MediaPipe & CameraX.<br><br>
-  <b>v0.1.0 (Release)</b>
+  <b>v0.1.1 (Release)</b>
   <br> <strong>Android Foreground Camera + Accessibility Service</strong><br><br>
   <a href="https://github.com/egu1832/dual-pdf-viewer/issues/new?labels=bug&template=bug_report.yml">Report bug</a>
   ·
