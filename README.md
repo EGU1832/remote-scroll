@@ -9,9 +9,9 @@
   using real-time hand-gesture recognition powered by MediaPipe & CameraX.<br><br>
   <b>v0.1.1 (Release)</b>
   <br> <strong>Android Foreground Camera + Accessibility Service</strong><br><br>
-  <a href="https://github.com/egu1832/dual-pdf-viewer/issues/new?labels=bug&template=bug_report.yml">Report bug</a>
+  <a href="https://github.com/egu1832/remote-scroll/issues/new?labels=bug&template=bug_report.yml">Report bug</a>
   ·
-  <a href="https://github.com/egu1832/dual-pdf-viewer/issues/new?labels=enhancement&template=feature_request.yml">Request feature</a>
+  <a href="https://github.com/egu1832/remote-scroll/issues/new?labels=enhancement&template=feature_request.yml">Request feature</a>
 </p>
 
 ---
