@@ -19,7 +19,9 @@
 ## Demo
 
 <p align="center">
-  <img src="demo.gif" alt="Remote Scroll Demo" width="800">
+  <img src="demo.gif" alt="Remote Scroll Demo" 
+       width="800"
+       style="margin-left: 20px; margin-right: 20px;">
 </p>
 
 
