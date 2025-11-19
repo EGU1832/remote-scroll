@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="demo.gif" alt="Remote Scroll Demo" 
-       width="800"
+       width="450"
        style="margin-left: 20px; margin-right: 20px;">
 </p>
 
