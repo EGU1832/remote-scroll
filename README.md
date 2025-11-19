@@ -7,12 +7,11 @@
 <p align="center">
   Scroll any screen without touching it —<br>
   using real-time hand-gesture recognition powered by MediaPipe & CameraX.<br><br>
-
-<b>v0.1.0 (Release)</b><br> <strong>Android Foreground Camera + Accessibility Service</strong><br><br>
+  <b>v0.1.0 (Release)</b>
+  <br> <strong>Android Foreground Camera + Accessibility Service</strong><br><br>
   <a href="https://github.com/egu1832/dual-pdf-viewer/issues/new?labels=bug&template=bug_report.yml">Report bug</a>
   ·
   <a href="https://github.com/egu1832/dual-pdf-viewer/issues/new?labels=enhancement&template=feature_request.yml">Request feature</a>
-
 </p>
 
 ---
@@ -92,8 +91,8 @@ remote-scroll/
 
 Remote Scroll은 **카메라 영상과 손 랜드마크를 디바이스 내부에서만 처리**합니다.
 
-✔ 데이터는 외부 서버로 전송되지 않습니다
-✔ 오직 Foreground Service + ML Inference 로 local 상태로 유지됨
+✔ 데이터는 외부 서버로 전송되지 않습니다  
+✔ 오직 Foreground Service + ML Inference 로 local 상태로 유지됨  
 ✔ Accessibility Service는 *스크롤 이벤트만 수행하고 UI 내용은 읽지 않음*
 
 개인 연구·포트폴리오용으로 안전하게 사용할 수 있습니다.
@@ -196,14 +195,6 @@ Gesture Service   [   ⚫ OFF → 🟡 ON   ]
 ### 6️. 서비스 종료하기 ★
 
 앱 → **Gesture Service 토글 OFF**
-
-## Roadmap
-
-* [ ] 손가락 터치 이벤트 → 클릭/드래그 기능
-* [ ] 두 손 제스처 → 확대/축소
-* [ ] 화면 속도 조절 UI
-* [ ] 손 좌우 움직임 → 페이지 이동
-* [ ] One UI 스타일 앱 위젯
 
 
 ## License
