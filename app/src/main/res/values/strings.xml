@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">remote-scroll</string>
+    <string name="accessibility_desc">Remote Scroll accessibility service</string>
+</resources>

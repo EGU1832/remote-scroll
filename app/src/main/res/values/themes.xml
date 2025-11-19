@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Remotescroll" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- PowerToys 스타일 전체 배경 -->
+        <item name="android:colorBackground">@color/pt_bg</item>
+
+        <!-- Material3 시스템 색상 (필수) -->
+        <item name="colorPrimary">@color/pt_switch_on</item>
+        <item name="colorOnPrimary">@android:color/black</item>
+
+        <item name="colorSecondary">@color/pt_text_title</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+
+        <item name="colorSurface">@color/pt_card_bg</item>
+        <item name="colorOnSurface">@color/pt_text_title</item>
+
+        <item name="thumbTint">@color/switch_thumb_color</item>
+        <item name="trackTint">@color/switch_track_color</item>
+    </style>
+</resources>
